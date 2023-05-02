@@ -82,13 +82,11 @@ analytics:
 author:
   name             : "Xiaozhong Sun"
   avatar           : "profile.jpg"
-  bio              :  |-
-                      Visiting Lecturer at Cornell University
-                      PhD in Regional Science
-  location         : "Ithaca, New York, 14850"
-  employer         : Department of City and Regional Planning, Cornell AAP
+  bio              :  "Visiting Lecturer at Cornell University\n\nPhD in Regional Science"
+  location         : "Ithaca, Mew York"
+  employer         : Department of City and Regional Planning
   pubmed           : 
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=X1LUpEcAAAAJ"
   email            : "xs243@cornell.edu"
   researchgate     : 
   uri              :
@@ -105,7 +103,7 @@ author:
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0000-0002-2144-0799"
   pinterest        :
   soundcloud       :
   stackoverflow    : 

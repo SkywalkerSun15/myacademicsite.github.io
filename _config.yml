@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Xiaozhong Sun"
   avatar           : "profile.jpg"
-  bio              :  "Visiting Lecturer at Cornell University\n\nPhD in Regional Science"
-  location         : "Ithaca, Mew York"
-  employer         : Department of City and Regional Planning
+  bio              : "Visiting Lecturer, Department of City and Regional Planning at Cornell University"
+  location         : "Ithaca"
+  employer         : 
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=X1LUpEcAAAAJ"
   email            : "xs243@cornell.edu"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : 
+  github           : "SkywalkerSun15"
   google_plus      :
   keybase          :
   instagram        :

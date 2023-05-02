@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sun's Homepage"
 title_separator          : "-"
 name                     : &name "Xiaozhong Sun"
-description              : &description "Lifelong Learner"
+description              : &description "This is my personal academic website"
 url                      : https://www.xiaozhongsun.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SkywalkerSun15/myacademicsite.github.io"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  name             : "Xiaozhong Sun"
+  avatar           : "profile.jpg"
+  bio              : "PhD in Regional Science"
   location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

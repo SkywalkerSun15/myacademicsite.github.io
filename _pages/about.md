@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hello, this is Sun"
+title: "👋Hello there, this is Sun🌞"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-I'm John Doe, a [position, e.g., Assistant Professor, Ph.D. candidate, etc.] in the [Department name] at [University/Institution name]. My research interests include [list your main research interests].
+I'm John Doe, a [position, e.g., Assistant Professor, Ph.D. candidate, etc.] in the [Department name] at [University/Institution name]. My research interests include:
+
+- Research interest 1
+- Research interest 2
+- Research interest 3
+- Research interest 4
 
 
 ## About me
@@ -17,20 +22,6 @@ I [completed/obtained] my [degree, e.g., Ph.D., M.S., etc.] in [field] at [Unive
 
 My work focuses on [provide a brief overview of your research]. I have published [number of publications] papers in [list some journals or conferences where you have published] and presented my research at [list some conferences where you have presented].
 
-## Research interests
-
-- Research interest 1
-- Research interest 2
-- Research interest 3
-- Research interest 4
-
-## Teaching
-
-I have taught the following courses:
-
-- Course 1 (Semester, Year)
-- Course 2 (Semester, Year)
-- Course 3 (Semester, Year)
 
 ## Contact
 

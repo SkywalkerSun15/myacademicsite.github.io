@@ -1,7 +1,6 @@
 ---
 permalink: /
-layout: home
-title: "Hello, this is Sun"
+title: "👋Hello, this is Sun"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome to my academic website
-
 I'm John Doe, a [position, e.g., Assistant Professor, Ph.D. candidate, etc.] in the [Department name] at [University/Institution name]. My research interests include [list your main research interests].
 
-![Your Profile Picture](/assets/images/profile-picture.jpg)
 
 ## About me
 

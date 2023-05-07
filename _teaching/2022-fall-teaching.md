@@ -8,7 +8,5 @@ date: 2022-09-01
 location: "Ithaca, New York, United States"
 ---
 
-[Course Roster](https://classes.cornell.edu/browse/roster/FA22/class/CRP/4080)
-
-[Self-developed Course Website](https://skywalkersun15.github.io/cornell_aap_crp_4080_intro_gis/index.html)
+[Course Roster](https://classes.cornell.edu/browse/roster/FA22/class/CRP/4080) and [Course Website](https://skywalkersun15.github.io/cornell_aap_crp_4080_intro_gis/index.html)
 

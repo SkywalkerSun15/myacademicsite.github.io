@@ -32,6 +32,6 @@ In addition to my academic interests, I am closely following the ongoing [renais
 
 ## Contact
 
-If you'd like to get in touch, feel free to email me at this (address)[xs243@cornell.edu] or this (address)[sunxz515@gmail.com].
+If you'd like to get in touch, feel free to email me at *xs243@cornell.edu* or *sunxz515@gmail.com*.
 
 [Link to my Falcuty Directory](https://aap.cornell.edu/people/xiaozhong-sun)

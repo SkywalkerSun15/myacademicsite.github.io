@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Hello there, this is Sun🌞"
+title: "👋Welcome to Sun's Personal Page"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,23 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-I'm John Doe, a [position, e.g., Assistant Professor, Ph.D. candidate, etc.] in the [Department name] at [University/Institution name]. My research interests include:
+I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Planning at Cornell University. My research interests include:
 
-- Research interest 1
-- Research interest 2
-- Research interest 3
-- Research interest 4
-
+- Economic Development and Location Theories
+- Spatial Inequality
+- (Decentralized and Democratic) Local Governance 
+- (Organic) Urbanization
+- Land Management and Housing Policy
+- Sustainability
 
 ## About me
 
-I [completed/obtained] my [degree, e.g., Ph.D., M.S., etc.] in [field] at [University/Institution name] in [year]. My [dissertation/thesis] was on [dissertation/thesis title], under the supervision of [advisor's name]. Prior to that, I received my [previous degree(s) and institution(s)].
+I obtained my Ph.D. in Regional Science at Cornell University in 2023. My dissertation was on REGIONAL ECONOMIC INEQUALITY OF CHINA: THE TREND AND INTERPRETATIONS FROM THE INSTITUTIONAL PERSPECTIVE, under the supervision of Pro.[Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), Pro.[Kieran Donaghy](https://aap.cornell.edu/people/kieran-donaghy), and Pro.[Shanjun Li](http://li.dyson.cornell.edu/). 
 
-My work focuses on [provide a brief overview of your research]. I have published [number of publications] papers in [list some journals or conferences where you have published] and presented my research at [list some conferences where you have presented].
+Before joining the Ph.D. program, I was a former city and regional planning student in the master’s program at Cornell University. I also hold a master’s degree in land use management from the Renmin University of China and a B.E. in land use management from Nanjing Agricultural University.
+
+My research interests primarily center around understanding the mechanisms that drive the spatial distribution of economic activity. Specifically, I am interested in exploring the interplay of market and institutional factors that contribute to developing an equilibrium state or achieving a socially optimal outcome concerning spatial inequality and sustainability. For example, my research examines the role of policy instruments in shaping regional economic development and the implications of these policies for regional disparities. I also use quantitative empirical methods to identify causal mechanisms of policy-related economic shocks, with an emphasis on their spatial characteristics. Through this research, I aim to shed light on the complex spatial dynamics of economic activity and inform policy decisions that promote sustainable and equitable development.
+
+My interdisciplinary training in economics, geography, urban planning, and public administration has prepared me to approach research questions from a unique perspective. Through my diverse background, I am able to think outside the box and identify critical interconnections between seemingly disparate fields.
+
+In addition to my academic interests, I am closely following the ongoing [renaissance of neuroscience and neurobiology](https://www.economist.com/technology-quarterly/2022/09/21/after-fallow-decades-neuroscience-is-undergoing-a-renaissance), and I am interested in exploring how these fields can dissolve the boundaries between nature and social science. I am also passionate about the latest advancements in AI technology and interested in how they can be used to build a decentralized, democratic architecture in both the internet space and the real world.
 
 
 ## Contact
 
-If you'd like to get in touch, feel free to email me at [your-email@example.com] or find me on [Twitter](https://twitter.com/your_username), [LinkedIn](https://www.linkedin.com/in/your_username/), or [Google Scholar](https://scholar.google.com/citations?user=your_ID).
+If you'd like to get in touch, feel free to email me at [xs243@cornell.edu] or [sunxz515@gmail.com].
 
-[Link to CV](/assets/docs/cv.pdf)
+[Link to my Falcuty Directory](https://aap.cornell.edu/people/xiaozhong-sun)

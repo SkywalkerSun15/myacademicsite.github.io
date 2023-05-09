@@ -10,10 +10,12 @@ redirect_from:
 
 I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Planning at Cornell University. My research interests include:
 
-- Economic Development and Location Theories
+- Economic Development 
 - Spatial Inequality
-- Decentralized and Democratic Local Governance 
-- Organic Urbanization
+- Decentralization 
+- Local Governance 
+- Urbanization
+- Location Theories
 - Land Management and Housing Policy
 - Sustainability
 

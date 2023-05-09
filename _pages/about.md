@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Planning at Cornell University. My research interests include:
+I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Planning at Cornell University. I'm currently in the job market. My research interests include:
 
 - Economic Development 
 - Spatial Inequality

@@ -21,7 +21,7 @@ I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Pl
 
 ## About me
 
-I obtained my Ph.D. in Regional Science at Cornell University in April, 2023. My dissertation was on Regional Inequality of China, under the supervision of Prof. [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), Prof. [Kieran Donaghy](https://aap.cornell.edu/people/kieran-donaghy), and Prof. [Shanjun Li](http://li.dyson.cornell.edu/). 
+I obtained my Ph.D. in Regional Science at Cornell University in **April, 2023**. My dissertation was on Regional Inequality of China, under the supervision of Prof. [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), Prof. [Kieran Donaghy](https://aap.cornell.edu/people/kieran-donaghy), and Prof. [Shanjun Li](http://li.dyson.cornell.edu/). 
 
 My **research interests** primarily center around understanding the mechanisms that drive the spatial distribution of economic activity. Specifically, I am interested in exploring the interplay of market and institutional factors that contribute to developing an equilibrium state or achieving a socially optimal outcome concerning spatial inequality and sustainability. For example, my research examines the role of policy instruments in shaping regional economic development and the implications of these policies for regional disparities. I also use quantitative empirical methods to identify causal mechanisms of policy-related economic shocks, with an emphasis on their spatial characteristics. Through this research, I aim to shed light on the complex spatial dynamics of economic activity and inform policy decisions that promote sustainable and equitable development.
 

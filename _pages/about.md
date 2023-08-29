@@ -17,13 +17,14 @@ I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Pl
 - Urbanization
 - Location Theories
 - Land Management and Housing Policy
-- Sustainability
+- Climate Change
+- Sustainable Infrastructure 
 
 ## About me
 
 I obtained my Ph.D. in Regional Science at Cornell University in **April, 2023**. My dissertation was on Regional Inequality of China, under the supervision of Prof. [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), Prof. [Kieran Donaghy](https://aap.cornell.edu/people/kieran-donaghy), and Prof. [Shanjun Li](http://li.dyson.cornell.edu/). 
 
-My **research interests** primarily center around understanding the mechanisms that drive the spatial distribution of economic activity. Specifically, I am interested in exploring the interplay of market and institutional factors that contribute to developing an equilibrium state or achieving a socially optimal outcome concerning spatial inequality and sustainability. For example, my research examines the role of policy instruments in shaping regional economic development and the implications of these policies for regional disparities. I also use quantitative empirical methods to identify causal mechanisms of policy-related economic shocks, with an emphasis on their spatial characteristics. Through this research, I aim to shed light on the complex spatial dynamics of economic activity and inform policy decisions that promote sustainable and equitable development.
+My **research interests** broadly center around understanding the mechanisms that drive the spatial distribution of people and economic activity. I mainly focus on promoting sustainable growth in the face of escalating challenges like rising inequality, housing affordability, and climate change. Moreover, I am interested in unraveling the synergy between market and institutional factors and devising innovative strategies to achieve socially optimal outcomes for pressing real-world challenges. My recent research examines the role of policy instruments in shaping regional economic development and the implications of these policies for regional disparities. I mainly use quantitative empirical methods to identify causal mechanisms of policy-related economic shocks, emphasizing their spatial characteristics. Through my research, I aspire to illuminate the intricate spatial dynamics of human-environment interactions, guiding policy decisions toward fostering sustainable and equitable development.
 
 Before joining the Ph.D. program, I was a former city and regional planning student in the master’s program at Cornell University. I also hold a master’s degree in land use management from the Renmin University of China and a B.E. in land use management from Nanjing Agricultural University.
 

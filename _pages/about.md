@@ -55,7 +55,7 @@ Beyond my core research, I'm fascinated by:
 
 ## Contact & Professional Links
 
-- **Email**: xsun1@colgate.edu | xs243@cornell.edu | sunxz515@gmail.com |
+- **Email**: xsun1@colgate.edu
 - **Faculty Directory**: [Colgate University Profile](https://www.colgate.edu/node/145886/latest)
 
 Feel free to reach out if you'd like to discuss research collaborations, teaching opportunities, or just connect!

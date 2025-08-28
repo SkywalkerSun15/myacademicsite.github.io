@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋Welcome to Sun's Personal Page"
+title: "Welcome to Sun's Personal Page👋"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,34 +8,54 @@ redirect_from:
   - /about.html
 ---
 
-I'm Xiaozhong Sun, a Visiting Lecturer in the Department of City and Regional Planning at Cornell University. I'm currently in the job market. My research interests include:
+I'm Xiaozhong Sun, and I'm currently a Visiting Assistant Professor in the Department of Geography at Colgate University. 
 
-- Economic Development 
-- Spatial Inequality
-- Political Economy and Comparative Economic Systems
-  * Decentralized Governance Structure
-- The Application of Machine Learning in Remote Sensing and Social Sensing
-- Sustainable Development
-  * Urban Land Management
-  * Housing Market
-  * Infrastructure Development
-  * Resilience to Climate Change
+My research revolves around understanding the mechanisms that drive the spatial distribution of people and economic activity, with a focus on:
 
-## About me
+- **Geopolitical Process of the Economy of Space**
+  * Spatial Inequality & Uneven Regional Development
+  * Policy Instruments in Regional Economic Development
+  
+- **Comparative Geopolitical Systems**
+  * Decentralized Governance Structures
+  * Administrative Systems & Spatial Policy Implementation
+  
+- **Human-Environment Interaction**
+  * Complex Urban Systems
+  * Land Use Change & Environmental Impacts
+  
+- **Advanced Methodologies**
+  * GIS Technology in Remote and Social Sensing
+  * Multitemporal Multimodel Data Fusion
+  * Machine Learning for Spatial Analysis
+ 
+## Current Research
 
-I obtained my Ph.D. in Regional Science at Cornell University in **April 2023**. My dissertation was on Regional Inequality in China, under the supervision of Prof. [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), Prof. [Kieran Donaghy](https://aap.cornell.edu/people/kieran-donaghy), and Prof. [Shanjun Li](http://li.dyson.cornell.edu/). 
+My current work centers on **studying the dynamic distribution of human economic activities using a multitemporal multimodel data fusion machine learning framework** that integrates social and remote sensing data to measure spatial inequality and environmental impacts of land use change. This research aims to develop a data-driven framework that can monitor real-time social and environmental changes and provide insights for policy-making and sustainable urban planning.
 
-My **research interests** primarily revolve around comprehending the mechanisms that drive the spatial distribution of people and economic activity. My long-term objectives are to promote sustainable growth facing mounting challenges such as increasing inequality, lack of affordable housing, and climate change. Additionally, I am interested in uncovering the interplay between market and institutional factors and developing innovative strategies to address real-world challenges that result in socially desirable outcomes.
+## Teaching
 
-My past research examines the role of policy instruments in shaping regional economic development and the implications of these policies for regional disparities using quantitative empirical methods to identify causal mechanisms of policy-related economic shocks, emphasizing their spatial characteristics. My research now centers around **studying the dynamic distribution of human economic activities using a multitemporal multimodel data fusion machine learning framework that integrates social and remote sensing data to measure spatial inequality and environmental impacts of land use change.** My long-term career goal is to construct a data-driven framework that monitors real-time social and environmental changes and provides insights through analyzing historical data to inform policy-making and sustainable urban planning.
+Currently teaching courses in Geography and Environmental Studies at Colgate University, focusing on:
+- GIS and Spatial Analysis
+- Urban Geography
+- Geopolitical Economy
 
-Before joining the Ph.D. program, I was a former city and regional planning student in the master’s program at Cornell University. I also hold a master’s degree in land use management from the Renmin University of China and a B.E. in land use management from Nanjing Agricultural University. My interdisciplinary training in economics, geography, urban planning, and public administration has prepared me to approach research questions from a unique perspective. My diverse background allows me to think outside the box and identify critical interconnections between seemingly disparate fields.
+## Education
 
-In addition to my academic interests, I am closely following the ongoing [renaissance of neuroscience and neurobiology](https://www.economist.com/technology-quarterly/2022/09/21/after-fallow-decades-neuroscience-is-undergoing-a-renaissance). I am interested in exploring how these fields can dissolve the boundaries between nature and social science. I am also passionate about the latest advancements in AI technology and interested in leveraging these technologies to build a decentralized, democratic architecture in the internet and the real world.
+I obtained my Ph.D. in Regional Science at Cornell University. My dissertation was on Regional Inequality in China, under the supervision of Prof. [Ravi Kanbur](https://www.kanbur.dyson.cornell.edu/), Prof. [Kieran Donaghy](https://aap.cornell.edu/people/kieran-donaghy), and Prof. [Shanjun Li](http://li.dyson.cornell.edu/). 
 
+Before joining the Ph.D. program, I was a former city and regional planning student in the master’s program at Cornell University. I also hold a master’s degree in land use management from Renmin University of China and a B.E. in land use management from Nanjing Agricultural University. My interdisciplinary training in economics, geography, urban planning, and public administration has prepared me to approach research questions from a unique perspective. My diverse background allows me to think outside the box and identify critical interconnections between seemingly disparate fields.
 
-## Contact
+## Additional Interests
 
-If you'd like to get in touch, feel free to email me at *xs243@cornell.edu* or *sunxz515@gmail.com*.
+Beyond my core research, I'm fascinated by:
+- The [renaissance of neuroscience and neurobiology](https://www.economist.com/technology-quarterly/2022/09/21/after-fallow-decades-neuroscience-is-undergoing-a-renaissance) and its potential to bridge natural and social sciences
+- Advancements in AI technology and their applications for building decentralized, democratic architectures
+- Sustainable urban development solutions
 
-[Link to my Falcuty Directory](https://aap.cornell.edu/people/xiaozhong-sun)
+## Contact & Professional Links
+
+- **Email**: xsun1@colgate.edu | xs243@cornell.edu | sunxz515@gmail.com |
+- **Faculty Directory**: [Colgate University Profile](https://www.colgate.edu/node/145886/latest)
+
+Feel free to reach out if you'd like to discuss research collaborations, teaching opportunities, or just connect!
